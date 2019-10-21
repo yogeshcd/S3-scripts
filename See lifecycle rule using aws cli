@@ -1,0 +1,2 @@
+See lifecycle rule useing aws cli
+aws s3api get-bucket-lifecycle --bucket [bucket name]
